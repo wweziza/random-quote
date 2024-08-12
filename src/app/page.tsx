@@ -65,7 +65,7 @@ export default function Home() {
         </div>
       </motion.div>
       <footer className={styles.footer}>
-        Created by <a href="https://github.com/wweziza" target="_blank" rel="noopener noreferrer">wweziza</a>
+        Created by <a href="https://github.com/wweziza/random-quote" target="_blank" rel="noopener noreferrer">wweziza</a>
       </footer>
     </div>
   );
